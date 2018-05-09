@@ -1,5 +1,3 @@
-# MyCode
-
 <!DOCTYPE html>
 <html>
 	<head>
